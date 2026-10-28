@@ -1,0 +1,10 @@
+tensorflow>=2.16
+numpy
+pandas
+matplotlib
+scikit-learn
+scikit-image
+scipy
+shap
+lime
+jupyter
